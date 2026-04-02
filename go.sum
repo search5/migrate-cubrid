@@ -1,2 +1,4 @@
 github.com/golang-migrate/migrate/v4 v4.19.1 h1:OCyb44lFuQfYXYLx1SCxPZQGU7mcaZ7gH9yH4jSFbBA=
 github.com/golang-migrate/migrate/v4 v4.19.1/go.mod h1:CTcgfjxhaUtsLipnLoQRWCrjYXycRz/g5+RWDuYgPrE=
+github.com/search5/cubrid-go v0.1.1 h1:CV5O14/tLqMX2lQCvdyLheAMbwon4/Xi+52fSVMItuI=
+github.com/search5/cubrid-go v0.1.1/go.mod h1:9EMleEu1nYZu8SKpZWPQM07JeAYBduRLMwbSpALzJp0=

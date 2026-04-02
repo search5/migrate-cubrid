@@ -27,6 +27,9 @@ import (
 	_ "github.com/search5/cubrid-go"
 )
 
+// Version is the current version of the migrate-cubrid driver.
+const Version = "0.1.0"
+
 func init() {
 	database.Register("cubrid", &Cubrid{})
 }
